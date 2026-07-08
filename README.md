@@ -1,4 +1,4 @@
-<img width="3168" height="1344" alt="Gemini_Generated_Image_8yow5x8yow5x8yow" src="https://github.com/user-attachments/assets/65eb5b49-d79a-47b1-8947-be549801b479" />
+<img width="3168" height="1344" alt="Gemini_Generated_Image_8yow5x8yow5x8yow-ezremove" src="https://github.com/user-attachments/assets/7980962a-8b6b-42b9-a772-79c958687f84" />
 <div align="center">
 
 # 💫 About Me 💫
