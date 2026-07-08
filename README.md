@@ -27,4 +27,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=m4tay0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=m4tay0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tay0&layout=compact&theme=dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
