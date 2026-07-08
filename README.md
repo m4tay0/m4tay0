@@ -1,6 +1,6 @@
+<img width="3168" height="1344" alt="Gemini_Generated_Image_8yow5x8yow5x8yow" src="https://github.com/user-attachments/assets/65eb5b49-d79a-47b1-8947-be549801b479" />
 <div align="center">
 
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is M4TAY0
 # 💫 About Me 💫
 🔭 I’m currently working on Building a Student Portal app – React Native frontend, Node.js/PostgreSQL backend<br>👯 I’m looking to collaborate on Backend optimization, database schema design, or mobile app performance improvements<br>🤝 I’m looking for help with "All I know is that I know nothing" – so feel free to help with anything<br>🌱 I’m currently learning TypeScript, React Native + Expo, backend optimization with Prisma<br>💬 Ask me about Building custom desktop PCs, laptop specs & thermal management, or gaming hardware selection<br>⚡ Fun fact The shoemaker's children go barefoot – hardware advisor with my own GPU problems
 
