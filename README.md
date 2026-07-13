@@ -33,7 +33,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4tay0&theme=tokyonight)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m4tay0&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m4tay0&theme=tokyonight&utcOffset=8)
 <br/>
-![](https://streak-stats.demolab.com/?user=m4tay0&theme=tokyonight&hide_border=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=m4tay0&theme=tokyonight&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m4tay0&theme=tokyonight)
 
 </div>
